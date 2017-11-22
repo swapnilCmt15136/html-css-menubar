@@ -1,0 +1,37 @@
+body
+	{
+	width:1000px;
+	margin:0px auto;
+	}
+.manuebar
+	{
+		height:50px;
+		background:Black;
+		margin-top:10px;
+	}
+.manuebar ul
+	{
+	list-style-type:none;
+	}
+.manuebar ul li
+	{
+	float:left;
+	padding-left:50px;
+	padding-right:40px;
+	border:1px solid white;
+	}
+.manuebar ul li a
+	{
+	line-height:48px;
+	text-decoration:none;
+	color:red;
+	}
+.manuebar ul li:hover
+	{
+		background:White;
+	}
+.manuebar ul li a:hover
+	{
+		color:Black;
+	}
+	
